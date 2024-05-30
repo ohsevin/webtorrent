@@ -75,7 +75,7 @@
     "brfs": "^1.4.3",
     "browserify": "^15.0.0",
     "cross-spawn": "^5.0.1",
-    "electron": "^1.7.8",
+    "electron": "^30.0.9",
     "finalhandler": "^1.0.0",
     "network-address": "^1.1.0",
     "run-series": "^1.1.4",
